@@ -1,4 +1,4 @@
-let firstOperand = ''
+let firstOperand = 'first '
 let secondOperand = ''
 let currentOperation = null
 let shouldResetScreen = false
